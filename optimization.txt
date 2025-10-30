@@ -1,0 +1,2 @@
+# Work Log
+Use multi-stage build to separate dependencies
